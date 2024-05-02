@@ -63,6 +63,8 @@
 }
 .flow_shape {
 }
+.line {
+}
 .form_hint {
   color:#999999;
 }
@@ -100,7 +102,7 @@
 }
 .button {
 }
-.line {
+.line1 {
 }
 .label {
   font-size:14px;
@@ -114,6 +116,6 @@
 }
 .image2 {
 }
-.line1 {
+.line2 {
 }
 textarea, select, input, button { outline: none; }
